@@ -1,0 +1,2 @@
+Persona: Travel Planner
+Job_To_Be_Done: Plannig a trip to france with friends for 10 days.
