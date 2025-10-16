@@ -29,7 +29,7 @@ It processes any set of PDFs — reports, research papers, menus, travel guides,
 ---
 
 ## 🧱 Project Structure
-
+```
 SmartPDF_Analyzer/
 │
 ├── new_main.py # Main File
@@ -39,20 +39,20 @@ SmartPDF_Analyzer/
 ├── requirements.txt # Python dependencies
 ├── input_config.txt 
 └── README.md 
-
+```
 
 ---
 
 ## ⚙️ Installation
 
-### 1️⃣ Clone the repository
+### Clone the repository
 ```bash
-git clone https://github.com/<omdhanawat>/SmartPDF_Analyzer.git
+git clone https://github.com/omdhanawat/SmartPDF_Analyzer.git
 cd SmartPDF_Analyzer
 
-### 2️⃣ Install dependencies
+# Install dependencies
 pip install -r requirements.txt
 
-### 3️⃣ Run locally
+# Run locally
 streamlit run app_dashboard.py
 

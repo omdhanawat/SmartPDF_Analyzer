@@ -1,12 +1,6 @@
 streamlit
-fitz
+pymupdf
 reportlab
 numpy
+pandas
 gensim
-pandas 
-numpy
-re
-time
-os
-io 
-datetime
