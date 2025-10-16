@@ -28,6 +28,12 @@ It processes any set of PDFs — reports, research papers, menus, travel guides,
 
 ---
 
+## 🚀 Live Demo
+
+You can view the live version of the app here: **[(https://smartpdfanalyzer-omdhanawat.streamlit.app/)]**
+
+---
+
 ## 🧱 Project Structure
 ```
 SmartPDF_Analyzer/
