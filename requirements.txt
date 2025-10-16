@@ -1,0 +1,12 @@
+streamlit
+fitz
+reportlab
+numpy
+gensim
+pandas 
+numpy
+re
+time
+os
+io 
+datetime
