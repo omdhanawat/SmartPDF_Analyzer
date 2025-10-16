@@ -1,6 +1,4 @@
 streamlit
-pymupdf>=1.24.0
-reportlab
+pymupdf
 numpy
 pandas
-gensim==4.2.0
