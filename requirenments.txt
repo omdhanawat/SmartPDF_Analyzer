@@ -1,5 +1,0 @@
-streamlit
-fitz
-reportlab
-numpy
-gensim
